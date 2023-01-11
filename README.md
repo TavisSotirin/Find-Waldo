@@ -1,7 +1,6 @@
 # Find-Waldo
 Python script to find Waldo in 'Where's Waldo' pictures using image processing techniques
 
-ABSTRACT
 The purpose of this script is to be capable of searching for and identifying potential “Waldo’s” in a given image from a “Where’s Waldo” book. 
 Written in Python using OpenCV, Scikit-Image, Numpy, and the built in Math libraries. 
 
